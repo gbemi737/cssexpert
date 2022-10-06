@@ -1,0 +1,18 @@
+.Afrobeats, .RnB, .Hiphop{
+  background-color: #E06E5A;
+}
+.Hiphop p{
+  font-weight: bolder;
+}
+.RnB p{
+  font-weight: lighter;
+}
+.Afrobeats p{
+  font-size:29px;
+}
+.Hiphop > h1{
+  background-color:#ED539E;
+}
+h1:first-child{
+  font-style: italic;
+}
